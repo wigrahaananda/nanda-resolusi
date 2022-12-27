@@ -2,5 +2,7 @@ Rencana Rumah Nanda
 Mencari lokasi rumah strategis
 -Singaraja
 -Batubulan
-Mencari harga rumah murah
+  * jauh dari terminal
 Mencoba mencari tanah murah 
+*Tanah dibawah 100 juta
+Mencari developer
